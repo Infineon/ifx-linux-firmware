@@ -8,11 +8,11 @@ Version: 6.10.190.91
 
 Chip: 43362
 File: firmware/cyfmac43362-sdio.bin
-Version: 5.90.254
+Version: 5.90.261
 
 Chip: 4339
 File: firmware/cyfmac4339-sdio.bin
-Version: 6.37.39.113
+Version: 6.37.39.131
 
 Chip: 43430
 File: firmware/cyfmac43430-sdio.bin
@@ -28,7 +28,7 @@ Version: 7.35.349.104
 
 Chip: 4356
 File: firmware/cyfmac4356-pcie.bin
-Version: 7.35.180.197
+Version: 7.35.180.208
 
 Chip: 4356
 File: firmware/cyfmac4356-sdio.bin
