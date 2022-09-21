@@ -1,6 +1,6 @@
 Chip: 43012
 File: firmware/cyfmac43012-sdio.bin
-Version: 13.10.271.284
+Version: 13.10.271.289
 
 Chip: 43340
 File: firmware/cyfmac43340-sdio.bin
@@ -16,15 +16,15 @@ Version: 6.37.39.131
 
 Chip: 43430
 File: firmware/cyfmac43430-sdio.bin
-Version: 7.45.98.122
+Version: 7.45.98.125
 
 Chip: 43439
 File: firmware/cyfmac43439-sdio.bin
-Version: 7.95.48
+Version: 7.95.55
 
 Chip: 43455
 File: firmware/cyfmac43455-sdio.bin
-Version: 7.45.249
+Version: 7.45.250
 
 Chip: 4354
 File: firmware/cyfmac4354-sdio.bin
@@ -44,33 +44,37 @@ Version: 7.124.22
 
 Chip: 4373
 File: firmware/cyfmac4373-pcie.bin
-Version: 13.35.205.50
+Version: 13.35.205.66
 
 Chip: 4373
 File: firmware/cyfmac4373-sdio.bin
-Version: 13.10.246.265
+Version: 13.10.246.289
 
 Chip: 4373
 File: firmware/cyfmac4373-sdio.industrial.bin
-Version: 13.10.246.265
+Version: 13.10.246.289
 
 Chip: 4373
 File: firmware/cyfmac4373-usb.bin
-Version: 13.10.246.269
+Version: 13.10.246.289
 
 Chip: 4373
 File: firmware/cyfmac4373-usb.industrial.bin
-Version: 13.10.246.269
+Version: 13.10.246.289
 
 Chip: 54591
 File: firmware/cyfmac54591-pcie.bin
-Version: 13.35.271
+Version: 13.35.284
 
 Chip: 54591
 File: firmware/cyfmac54591-sdio.bin
-Version: 13.35.271
+Version: 13.35.284
 
-Chip: 55560
-File: firmware/cyfmac55560-pcie.trxse
-Version: 18.53.53.4
+Chip: 55572
+File: firmware/cyfmac55572-pcie.trxse
+Version: 18.53.117.2
+
+Chip: 55572
+File: firmware/cyfmac55572-sdio.trxse
+Version: 18.53.117.2
 
