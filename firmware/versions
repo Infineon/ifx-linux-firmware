@@ -1,76 +1,78 @@
 Chip: 43012
 File: firmware/cyfmac43012-sdio.bin
-Version: 13.10.271.284
-
-Chip: 43340
-File: firmware/cyfmac43340-sdio.bin
-Version: 6.10.190.91
-
-Chip: 43362
-File: firmware/cyfmac43362-sdio.bin
-Version: 5.90.261
-
-Chip: 4339
-File: firmware/cyfmac4339-sdio.bin
-Version: 6.37.39.131
-
-Chip: 43430
-File: firmware/cyfmac43430-sdio.bin
-Version: 7.45.98.122
+Version: 13.10.271.294
 
 Chip: 43439
 File: firmware/cyfmac43439-sdio.bin
-Version: 7.95.48
-
-Chip: 43455
-File: firmware/cyfmac43455-sdio.bin
-Version: 7.45.249
+Version: 7.95.59
 
 Chip: 4354
 File: firmware/cyfmac4354-sdio.bin
 Version: 7.35.349.117
 
-Chip: 4356
-File: firmware/cyfmac4356-pcie.bin
-Version: 7.35.180.212
-
-Chip: 4356
-File: firmware/cyfmac4356-sdio.bin
-Version: 7.35.349.115
-
-Chip: 43570
-File: firmware/cyfmac43570-pcie.bin
-Version: 7.124.22
-
 Chip: 4373
 File: firmware/cyfmac4373-pcie.bin
-Version: 13.35.205.50
+Version: 13.35.205.68
 
 Chip: 4373
 File: firmware/cyfmac4373-sdio.bin
-Version: 13.10.246.265
+Version: 13.10.246.300
 
 Chip: 4373
 File: firmware/cyfmac4373-sdio.industrial.bin
-Version: 13.10.246.265
+Version: 13.10.246.300
 
 Chip: 4373
 File: firmware/cyfmac4373-usb.bin
-Version: 13.10.246.269
+Version: 13.10.246.300
 
 Chip: 4373
 File: firmware/cyfmac4373-usb.industrial.bin
-Version: 13.10.246.269
+Version: 13.10.246.300
 
 Chip: 54591
 File: firmware/cyfmac54591-pcie.bin
-Version: 13.35.271
+Version: 13.35.294
 
 Chip: 54591
 File: firmware/cyfmac54591-sdio.bin
-Version: 13.35.271
+Version: 13.35.294
 
-Chip: 55560
-File: firmware/cyfmac55560-pcie.trxse
-Version: 18.53.53.4
+Chip: 55572
+File: firmware/cyfmac55572-pcie.trxse
+Version: 18.53.180.7
+
+Chip: 55572
+File: firmware/cyfmac55572-sdio.trxse
+Version: 18.53.180.7
+
+Chip: 43012
+File: firmware/cyfmac43012-sdio.clm_blob
+
+Chip: 43439
+File: firmware/cyfmac43439-sdio.clm_blob
+
+Chip: 4354
+File: firmware/cyfmac4354-sdio.clm_blob
+
+Chip: 4373
+File: firmware/cyfmac4373.clm_blob
+
+Chip: 4373
+File: firmware/cyfmac4373-pcie.clm_blob
+
+Chip: 4373
+File: firmware/cyfmac4373-sdio.clm_blob
+
+Chip: 54591
+File: firmware/cyfmac54591-pcie.clm_blob
+
+Chip: 54591
+File: firmware/cyfmac54591-sdio.clm_blob
+
+Chip: 55572
+File: firmware/cyfmac55572-pcie.clm_blob
+
+Chip: 55572
+File: firmware/cyfmac55572-sdio.clm_blob
 
