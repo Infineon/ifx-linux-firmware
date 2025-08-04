@@ -44,15 +44,15 @@ Version: 28.10.522.8
 
 Chip: 55572
 File: firmware/cyfmac55572-pcie.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 55572
 File: firmware/cyfmac55572-sdio.concurrency.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 55572
 File: firmware/cyfmac55572-sdio.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 55500
 File: firmware/inffmac55500-sdio.trxse
@@ -60,15 +60,15 @@ Version: 28.10.522.8
 
 Chip: 55572
 File: firmware/inffmac55572-pcie.perf.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 55572
 File: firmware/inffmac55572-pcie.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 55572
 File: firmware/inffmac55572-sdio.trxse
-Version: 18.53.469.31
+Version: 18.53.469.33
 
 Chip: 43022
 File: firmware/cyfmac43022-sdio.trxs
